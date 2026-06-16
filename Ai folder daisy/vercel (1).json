@@ -1,5 +1,0 @@
-{
-  "buildCommand": "mkdir -p public || true",
-  "outputDirectory": "public",
-  "framework": "other"
-}
